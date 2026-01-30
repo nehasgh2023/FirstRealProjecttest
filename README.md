@@ -1,4 +1,4 @@
-# Total Salary Calculator
+# Total Salary Calculator - Git Demo Project
 
 ## Overview
 This script reads an Excel file named `mock_data.xlsx` and calculates the total of all salaries listed in the file.
