@@ -11,3 +11,6 @@ for row in ws.iter_rows(min_row=2, min_col=5, max_col=5):
         total_salary += cell.value
 
 print(f"Total Salary: {total_salary}")
+
+print("This is the new code")
+
